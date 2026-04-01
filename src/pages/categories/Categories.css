@@ -1,0 +1,48 @@
+
+.row1{
+    display: flex;
+    gap: 20px;
+
+}
+.row2{
+    display: flex;
+    gap: 20px;
+
+}
+.row3{
+    display: flex;
+    gap: 20px;
+
+}
+.img1{
+margin-left: 220px;
+}
+
+
+.img4{
+margin-left: 220px;
+}
+
+.img7{
+margin-left: 220px;
+}
+.title{
+    margin-left: 220px;
+    font-family: Inter;
+font-weight: 700;
+font-size: 24px;
+
+line-height: 36px;
+letter-spacing: 0px;
+
+}
+.btn{
+    margin-left: 1200px;
+    margin-bottom: 50px;
+    border: none;
+    background-color: #1E5EFF;
+    color: white;
+    border-radius: 4px;
+    height: 30px;
+
+}
